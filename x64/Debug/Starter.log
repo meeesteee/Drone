@@ -1,0 +1,23 @@
+﻿  MyProject.cpp
+d:\polimi\courses\computer graphics\project(corrected)\starter\starter\myproject.hpp(266): warning C4099: 'Model': type name first seen using 'struct' now seen using 'class'
+  d:\polimi\courses\computer graphics\project(corrected)\starter\starter\myproject.hpp(180): note: see declaration of 'Model'
+d:\polimi\courses\computer graphics\project(corrected)\starter\starter\myproject.hpp(267): warning C4099: 'Texture': type name first seen using 'struct' now seen using 'class'
+  d:\polimi\courses\computer graphics\project(corrected)\starter\starter\myproject.hpp(197): note: see declaration of 'Texture'
+d:\polimi\courses\computer graphics\project(corrected)\starter\starter\myproject.hpp(268): warning C4099: 'Pipeline': type name first seen using 'struct' now seen using 'class'
+  d:\polimi\courses\computer graphics\project(corrected)\starter\starter\myproject.hpp(228): note: see declaration of 'Pipeline'
+d:\polimi\courses\computer graphics\project(corrected)\starter\starter\myproject.hpp(269): warning C4099: 'DescriptorSetLayout': type name first seen using 'struct' now seen using 'class'
+  d:\polimi\courses\computer graphics\project(corrected)\starter\starter\myproject.hpp(220): note: see declaration of 'DescriptorSetLayout'
+d:\polimi\courses\computer graphics\project(corrected)\starter\starter\myproject.hpp(270): warning C4099: 'DescriptorSet': type name first seen using 'struct' now seen using 'class'
+  d:\polimi\courses\computer graphics\project(corrected)\starter\starter\myproject.hpp(249): note: see declaration of 'DescriptorSet'
+d:\polimi\courses\computer graphics\project(corrected)\starter\starter\myproject.hpp(1309): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\polimi\courses\computer graphics\project(corrected)\starter\starter\myproject.hpp(1506): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+d:\polimi\courses\computer graphics\project(corrected)\starter\starter\myproject.hpp(1800): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+d:\polimi\courses\computer graphics\project(corrected)\starter\starter\myproject.cpp(34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\polimi\courses\computer graphics\project(corrected)\starter\starter\myproject.cpp(35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\polimi\courses\computer graphics\project(corrected)\starter\starter\myproject.cpp(38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\polimi\courses\computer graphics\project(corrected)\starter\starter\myproject.cpp(76): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Starter.vcxproj -> D:\Polimi\courses\computer graphics\Project(corrected)\Starter\x64\Debug\Starter.exe

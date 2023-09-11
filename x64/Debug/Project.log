@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: la directory intermedia (x64\Debug\) contiene file condivisi da un altro progetto (ProjectStarter.vcxproj, Starter.vcxproj). Tale condizione può comportare un comportamento di pulizia e ricompilazione non corretto.
+  Project.vcxproj -> C:\Users\Luca\Desktop\Polimi\Magistrale\Materie\CG\CG_Assignments\Project\x64\Debug\Project.exe

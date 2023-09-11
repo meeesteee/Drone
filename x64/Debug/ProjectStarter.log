@@ -1,0 +1,20 @@
+﻿  MyProject.cpp
+C:\Users\Utente\CG_Assignments\ProjectStarter\MyProject.hpp(266,20): warning C4099: 'Model': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\Utente\CG_Assignments\ProjectStarter\MyProject.hpp(180): message : vedere la dichiarazione di 'Model'
+C:\Users\Utente\CG_Assignments\ProjectStarter\MyProject.hpp(267,22): warning C4099: 'Texture': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\Utente\CG_Assignments\ProjectStarter\MyProject.hpp(197): message : vedere la dichiarazione di 'Texture'
+C:\Users\Utente\CG_Assignments\ProjectStarter\MyProject.hpp(268,23): warning C4099: 'Pipeline': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\Utente\CG_Assignments\ProjectStarter\MyProject.hpp(228): message : vedere la dichiarazione di 'Pipeline'
+C:\Users\Utente\CG_Assignments\ProjectStarter\MyProject.hpp(269,34): warning C4099: 'DescriptorSetLayout': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\Utente\CG_Assignments\ProjectStarter\MyProject.hpp(220): message : vedere la dichiarazione di 'DescriptorSetLayout'
+C:\Users\Utente\CG_Assignments\ProjectStarter\MyProject.hpp(270,28): warning C4099: 'DescriptorSet': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\Utente\CG_Assignments\ProjectStarter\MyProject.hpp(249): message : vedere la dichiarazione di 'DescriptorSet'
+C:\Users\Utente\CG_Assignments\ProjectStarter\MyProject.hpp(1309,1): warning C4267: 'argomento': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\Utente\CG_Assignments\ProjectStarter\MyProject.hpp(1506,39): warning C4267: 'argomento': conversione da 'size_t' a '_Ty'. Possibile perdita di dati.
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\Utente\CG_Assignments\ProjectStarter\MyProject.hpp(1800,48): warning C4267: '=': conversione da 'size_t' a 'uint32_t'. Possibile perdita di dati.
+LINK : warning LNK4098: la libreria predefinita 'MSVCRT' è in conflitto con l'utilizzo di altre librerie; usare /NODEFAULTLIB:libreria
+  ProjectStarter.vcxproj -> C:\Users\Utente\CG_Assignments\ProjectStarter\x64\Debug\ProjectStarter.exe
